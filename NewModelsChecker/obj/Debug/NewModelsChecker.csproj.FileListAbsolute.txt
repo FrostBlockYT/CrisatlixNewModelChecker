@@ -1,0 +1,7 @@
+C:\Users\NotAura\source\repos\NewModelsChecker\NewModelsChecker\bin\Debug\NewModelsChecker.exe.config
+C:\Users\NotAura\source\repos\NewModelsChecker\NewModelsChecker\bin\Debug\NewModelsChecker.exe
+C:\Users\NotAura\source\repos\NewModelsChecker\NewModelsChecker\bin\Debug\NewModelsChecker.pdb
+C:\Users\NotAura\source\repos\NewModelsChecker\NewModelsChecker\obj\Debug\NewModelsChecker.csprojAssemblyReference.cache
+C:\Users\NotAura\source\repos\NewModelsChecker\NewModelsChecker\obj\Debug\NewModelsChecker.csproj.CoreCompileInputs.cache
+C:\Users\NotAura\source\repos\NewModelsChecker\NewModelsChecker\obj\Debug\NewModelsChecker.exe
+C:\Users\NotAura\source\repos\NewModelsChecker\NewModelsChecker\obj\Debug\NewModelsChecker.pdb
